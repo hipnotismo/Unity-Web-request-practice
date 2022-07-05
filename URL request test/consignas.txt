@@ -1,0 +1,17 @@
+Buscar cualquier API que retorne una imagen.
+
+Crear una escena que tenga un botón.
+
+Cuando se presiona el botón, una imagen descargada de un servidor a través de alguna de las APIs se pone en un objeto en la escena o en un elemento de UI.
+
+Usar UnityWebRequestTexture para obtener la imagen y guardarla en un objeto Texture2D.
+
+------
+
+Crear una escena que tenga un input de texto para ingresar una ciudad
+
+Cuando se presiona el botón aceptar con la ciudad ingresada, cargar otra escena en la cual hay un skybox y efectos correspondientes al clima de dicha ciudad.
+
+
+
+
